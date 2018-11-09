@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">TravelLink</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="btn1">Tasikmalaya</string>
+    <string name="btn2">Bandung</string>
+    <string name="btn3">Bogor</string>
+    <string name="btn4">cirebon</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telp">No. Telepon</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="trip">TRIP TO...</string>
+    <string name="info_wst">INFORMASI WISATA</string>
+    <string name="help">HELP</string>
+    <string name="keluar">KELUAR</string>
+    <string name="help2">Informasi Lebih lanjut hubungi 081214048474 a/n Ridwan</string>
+    <string name="help1">Travellink merupakan aplikasi booking tiket wisata dengan menawarkan wisata ke lebih dari satu tempat di jawa barat.</string>
+    <string name="galunggung">Gunung Galunggung merupakan gunung berapi dengan ketinggian
+                            2.167 meter di atas permukaan laut, terletak sekitar 17 km dari pusat kota Tasikmalaya.
+                             Untuk mencapai puncak Galunggung, dibangun sebuah tangga yang memiliki 620 anak tangga.
+                            Di wilayah ini terdapat beberapa daya tarik wisata yang ditawarkan antara lain objek wisata
+                            dan daya tarik wanawisata dengan areal seluas kurang lebih 120 hektare di bawah pengelolaan
+                            Perum Perhutani. Objek yang lainnya seluas kurang lebih 3 hektar berupa pemandian air panas
+                            (Cipanas) lengkap dengan fasilitas kolam renang, kamar mandi dan bak rendam air panas.
+                            Gunung Galunggung mempunyai Hutan Montane 1.200 - 1.500 meter dan Hutan Ericaceous > 1.500 meter.</string>
+    <string name="karang_tawulan">Pantai karang tawulan yang berlokasi di Cilembang Kecamatan Cihideung Tasimalaya.
+                            Pantai ini memang belum terkenal di kalangan penggila wisata karena untuk menuju
+                            kepantai ini pun aksesnya tidak begitu mudah.</string>
+    <string name="taraju">Seperti halnya wonosobo  yang mempunyai kebun teh tambi, tasikmalaya juga
+                         mempunyai kebun teh taraju yang tak kalah menariknya untuk di kunjungi.
+                         Perkebunan teh ini mempunyai luas sekitar 2.062 hektar meliputi
+                         1.329 hekatar sebagai hal milik rakyat dan 732 hektar sebagai hal milik swasta.</string>
+    <string name="lodge">Wahana permainan paintball ini merupakan salah satu permainan yang palin di minati di the lodge earthbound adventure park ini.
+                            Selain itu, lokasi ini juga cocok digunakan sebagai tempat menenangkan diri dengan menikmati sejuknya hutan pinus khas pegunungan.
+                            Lokasinya berada di jalan Marabaya KM 4.5, Cibodas, Lembang Bandung. Untuk jam bukanya sendiri adalah dari pukul 10.00 hingga 17.00.</string>
+    <string name="kawah_putih">Kawah putih ini adalah sebuah kawah yang terbentuk dari letusan gunung patuha ratusan tahun yang lalu.
+                            Lokasi kawah putih sendiri berada di Jalan Raya Soreang Ciwidey, Bandung, Jawa Barat.</string>
+    <string name="tangkuban_parahu"> Gunung yang terbilang masih aktif ini merupakan sebuah kawasan tempat wisata alam Bandung
+                            yang berdekatan dengan daerah lembang bandung dan juga merupakan primadona pariwisata daerah
+                            Jawa Barat,karena tempat wisata alam khas pegunungan yang banyak memiliki keunikan serta
+                            tentunya keindahan panorama serta kesejukan udaranya ini mampu menarik banyak jumlah kunjungan
+                            wisatawan untuk berkunjung ke tempat yang asri sangat indah ini pada saat akhir pekan apalagi
+                             ketika musim liburan panjang tiba</string>
+    <string name="bogor1"> Kebun Raya Bogor atau Kebun Botani Bogor adalah sebuah kebun botani besar yang terletak di Kota Bogor, Indonesia.
+                            Luasnya mencapai 87 hektaree dan memiliki 15.000 jenis koleksi pohon dan tumbuhan.
+                            Saat ini Kebun Raya Bogor ramai dikunjungi sebagai tempat wisata, terutama hari Sabtu dan Minggu. Di sekitar Kebun Raya Bogor tersebar pusat-pusat
+                            keilmuan yaitu Herbarium Bogoriense, Museum Zoologi Bogor, dan PUSTAKA.</string>
+    <string name="bogor2"> Telaga Warna Puncak Bogor adalah sebuah objek wisata alam yang terletak di Kawasan Puncak,
+                            Bogor, Jawa Barat. Objek wisata ini berada di dekat perkebunan Teh PTP VII Gunung Mas.
+                            Dilatar belakangi persawahan dan perkampungan penduduk dengan gunung yang menjulang tinggi
+                            menambah keindahan panorama alam yang sudah ada. Sebelum ditetapkan sebagai kawasan taman
+                            wisata pada tahun 1972, kawasan Telaga Warna Puncak Pass Cisarua - Bogor, merupakan bagian
+                            dari Kawasan Cagar Alam hutan Gunung Mega Mendung dan hutan Gunung Hambalang.</string>
+    <string name="bogor3"> Taman Safari Indonesia adalah tempat wisata keluarga berwawasan lingkungan yang berorientasi pada
+                            habitat satwa di alam bebas. Taman Safari Indonesia terletak di Desa Cibeureum Kecamatan Cisarua, Kabupaten Bogor,
+                            Jawa Barat atau yang lebih dikenal dengan kawasan Puncak. Taman ini berfungsi menjadi penyangga Taman Nasional Gunung
+                            Gede Pangrango di ketinggian 900-1800 m di atas permukaan laut, serta mempunyai suhu rata-rata 16 - 24 derajat Celsius.
+                            Memberi makan hewan dengan wortel.
+                            Keunikan tempat wisata ini dari kebun binatang lainnya di Indonesia adalah pengunjungnya bisa berkeliling ke berbagai tempat untuk
+                            bisa melihat dari dekat semua jenis binatang dengan memakai mobil pribadi ataupun naik bus yang sudah disediakan pihak pengelola
+                            Taman Safari. Pengunjung juga bisa berinteraksi langsung dengan memberi makan hewan-hewan tersebut.</string>
+    <string name="crb1">  Keraton Kasepuhan adalah keraton termegah dan paling terawat di Cirebon. Makna di setiap sudut arsitektur keraton ini pun terkenal paling
+                            bersejarah. Halaman depan keraton ini dikelilingi tembok bata merah dan terdapat pendopo di dalamnya.
+                            Keraton Kasepuhan adalah kerajaan islam tempat para pendiri cirebon bertahta, disinilah pusat pemerintahan Kasultanan Cirebon berdiri.</string>
+    <string name="crb2">  Gua Sunyaragi adalah sebuah gua yang berlokasi di kelurahan Sunyaragi, Kesambi, Kota Cirebon di mana terdapat bangunan miripcandi yang disebut Gua Sunyaragi,
+                            atau Taman Air Sunyaragi, atau sering disebut sebgaai Tamansari Sunyaragi. Nama Sunyaragi berasal dari kata sunya yang artinya adalah sepi dan ragi yang berarti raga, keduanya adalah bahasa Sanskerta.
+                            Tujuan utama didirikannya gua tersebut adalah sebagai tempat beristirahat dan meditasi para Sultan Cirebon dan keluarganya.</string>
+    <string name="crb3"> Cirebon Waterland memililiki fasilitas kolam renang berjumlah tiga. Masing-masing waterboom anak-anak, kolam berarus untuk segala umur dan kolam renang olimpic untuk orang dewasa. Uniknya, kolam di wahana ini dilengkapi dengan pasir putih layaknya di pantai.
+                            Fasilitas berikutnya berhubungan dengan pemenuhan kebutuhan perut, yap restoran. Di tempat ini traveler bisa menemukan restoran Jepang.</string>
+</resources>
